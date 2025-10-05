@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/Mistocarul/lab2-config-repo.git
+          default-label: main

@@ -1,0 +1,3 @@
+app:
+  name: Service A
+  timeout: 5000
