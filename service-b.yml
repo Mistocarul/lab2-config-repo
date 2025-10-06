@@ -1,3 +1,11 @@
 app:
   name: Service B
   cache: true
+  version: "1.0.0"
+
+server:
+  port: 8082
+
+logging:
+  level:
+    com.example.serviceb: DEBUG
