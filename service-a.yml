@@ -1,7 +1,7 @@
 app:
   name: Service A
-  timeout: 5000
-  version: "1.0.0"
+  timeout: 7000
+  version: "1.0.1"
 
 server:
   port: 8087
