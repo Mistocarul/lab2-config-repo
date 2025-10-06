@@ -1,6 +1,6 @@
 app:
   name: Service A
-  timeout: 7000
+  timeout: 7500
   version: "1.0.1"
 
 server:
